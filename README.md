@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JunGuo1208
-- 👀 I’m interested in snowboard and some funny tech.
+- 👀 I’m interested in snowboarding and some funny techs.
 - 🌱 I’m currently learning economic( macro,econometric) and also some computer technology(machine learning)
 
 
